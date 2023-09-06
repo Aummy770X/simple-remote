@@ -54,7 +54,7 @@ local TextLabel = Instance.new("TextLabel")
 
 --Properties:
 
-SimpleSpy2.Name = "a2dnauwhd9uh2aoij20jdo2iwajwoiudhjaiuwhd8y"
+SimpleSpy2.Name = "ScreenGui"
 SimpleSpy2.ResetOnSpawn = false
 
 Background.Name = "Background"
